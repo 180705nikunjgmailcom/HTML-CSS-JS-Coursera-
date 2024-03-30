@@ -11,12 +11,11 @@ body {
 h1 {
     text-align: center;
     color: black;
-    background-color: #a9b5d456;
+    background-color: #354c9c56;
 }
-
 section {
-    border: 1px solid black;
-    background-color: #b5c4d2;
+    border: 1px solid rgb(185, 14, 14);
+    background-color: #d8dddf;
     margin: 10px;
 }
 
@@ -34,17 +33,19 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.mother>h2 {
-    background-color: #08ceff;
-}
-
-section.quiet>h2 {
-    background-color: #0dffc3;
-}
-
-section.icome>h2 {
+section.Me>h2 {
     color: #e2e2e2;
-    background-color: #cd60ff;
+    background-color: #5b0000;
+}
+
+section.He>h2 {
+    color: #e2e2e2;
+    background-color: #5b0000;
+}
+
+section.future>h2 {
+    color: #e2e2e2;
+    background-color: #5b0000;
 }
 
 section>p {
